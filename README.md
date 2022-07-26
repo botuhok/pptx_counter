@@ -1,3 +1,3 @@
 # pptx_counter
-counts the number of characters in PowerPoint presentations
-just put the *.pptx files in the same folder and run script
+<p><b>Counts the number of characters in PowerPoint presentations.</b></p>
+Just put the *.pptx files in the same folder and run script
